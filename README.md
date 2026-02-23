@@ -1,0 +1,1 @@
+This is a productivity app based on the Pomodoro timer system.
